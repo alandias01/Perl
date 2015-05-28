@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>ToGoTutor Free Online Tutorial</title>
+        <meta name="Description" content="Togotutor provides tutorials on several computer topics and web technologies. The tutorials are in detail with examples and absolutely FREE." />
+        <meta name="Keywords" content="learn programming free,learn tools,tech tutor,technology tutorials,free programming tutorial,begin programming" />
+        <meta name="Title" content="Free Online Tutorial"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--CSS-->
+        <link href="css/style.css" rel="stylesheet">
+        <link href="ico/favicon.ico" rel="shortcut icon">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+        <!--CSS-->
+
+        <!-- HTML5 and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="js/html5shiv.js"></script>
+          <script src="js/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <header><!--header-->
+            <div class="container">
+                <div class="logo">
+                    <h1><a href="index.php"><img src="images/logo.png" alt="ToGoTutor"></a></h1>
+                </div>
+                <div class="search">
+                    <p><!DOCTYPE html>
+<meta charset="utf-8">
+<!--CSS-->
+<link href="../css/style.css" rel="stylesheet">
+<link href="../ico/favicon.ico" rel="shortcut icon">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<form action="http://www.google.com" id="cse-search-box" target="_blank">
+    <div>
+        <input type="hidden" name="cx" value="partner-pub-8822634132283231:3396676822" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="text" name="q" size="31" />
+        <input type="submit" name="sa" value="Search"/>
+    </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </header><!--header-->
+        <article class="wrapper"><!--Wrapper-->
+            <aside class="sidebar"><!--Sidebar-->
+                <div class="course-list">
+                    <h2>Operating Systems</h2>
+                    <ul>
+                        <li><a href="linux/index.php">Linux</a></li>
+                        <!--                    <li><a href="#">Timezone Utility</a></li>
+                                            <li><a href="#">Network Interfaces</a></li>
+                                            <li><a href="#">String Tokenizer</a></li>-->
+                    </ul>
+                </div>
+
+                <div class="course-list">
+                    <h2>Ofm</h2>
+                    <ul>
+                        <li><a href="weblogic/index.php">Weblogic</a></li>
+                        <li><a href="soa/index.php">Soa</a></li>
+                        <!--                    <li><a href="#">File System</a></li>
+                                            <li><a href="#">Installation</a></li>-->
+                    </ul>
+                </div>
+
+                <div class="course-list">
+                    <h2>Application Servers</h2>
+                    <ul>
+                        <li><a href="jboss/index.php">JBoss</a></li>
+                        <li><a href="tomcat/index.php">Tomcat</a></li>
+                        <!--                    <li><a href="#">Update Tar File</a></li>
+                                            <li><a href="#">Date Extractor</a></li>
+                                            <li><a href="#">Heap JMAP</a></li>
+                                            <li><a href="#">Group Administration</a></li>-->
+                    </ul>
+                </div>
+                <div class="course-list">
+                    <h2>Tools</h2>
+                    <ul>
+                        <li><a href="code-to-html/index.php">Code To Html</a></li>
+                        <!--                                    <li><a href="#">Audit Level </a></li>
+                                                            <li><a href="#">SOA Composite</a></li>
+                                                            <li><a href="#">Application Database</a></li>-->
+                    </ul>
+                </div>
+                <div class="course-list">
+                    <h2>Development</h2>
+                    <ul>
+                        <li><a href="jsf/index.php">Jsf</a></li>
+                        <li><a href="python/index.php">Python</a></li>
+                        <li><a href="learn-java/index.php">Java</a></li>
+                                                        <!--    <li><a href="#">SOA Composite</a></li>
+                                                            <li><a href="#">Application Database</a></li>-->
+                    </ul>
+                </div>
+            </aside><!--Sidebar-->
+
+            <section class="right-content"><!--Right Content-->
+                <div class="box1">
+                    <a target="_blank" href="http://www.togotutor.com/forums/forum.php" class="box">
+                        <div class="webmaster-image"></div>
+                        <h1>Webmaster</h1>
+                    </a>
+                    <div class="clearfix"></div>
+                    <a target="_blank" href="http://www.togotutor.com/forums/forum.php" class="btn" rel="dofollow">Webmaster Forum</a>
+                </div>
+                <div class="box1"><!--Box-->
+                    <a target="_top" href="operating-systems/index.php" class="box">
+                        <div class="linux-image"></div>
+                        <h1>OS</h1>
+                    </a>
+                    <div class="clearfix"></div>
+                    <a target="_top" href="operating-systems/index.php" class="btn">OS Tutorial</a>
+                </div><!--Box 1-->
+
+                <div class="box1"><!--Box-->
+                    <a target="_top" href="fusion-middleware/index.php" class="box">
+                        <div class="ofm-image"></div>
+                        <h1>OFM</h1>
+                    </a>
+                    <div class="clearfix"></div>
+                    <a target="_top" href="fusion-middleware/index.php" class="btn">OFM Tutorial</a>
+                </div><!--Box-->
+                <div class="box1">
+                    <a target="_top" href="application-servers/index.php" class="box">
+                        <div class="app-servers-image"></div>
+                        <h1>App Servers</h1>
+                    </a>
+                    <div class="clearfix"></div>
+                    <a target="_top" href="application-servers/index.php" class="btn">App Servers Tutorial</a>
+                </div>     
+                <div class="box1">                
+                    <a target="_top" href="tools/index.php" class="box">
+                        <div class="tools-image"></div>
+                        <h1>Tools</h1>
+                    </a>
+                    <div class="clearfix"></div>
+                    <a target="_top" href="tools/index.php" class="btn">Tools</a>
+                </div>
+                <div class="box1">,<!--Box--> 
+                    <a target="_top" href="development/index.php" class="box">
+                        <div class="development-image"></div>
+                        <h1>Development</h1>
+                    </a>
+                    <div class="clearfix"></div>
+                    <a target="_top" href="development/index.php" class="btn">Development Tutorial</a>
+                </div>
+                <!--
+                           <div class="box1">Box
+                               <a target="_top" href="#" class="box">
+                                   <div class="black-image"></div>
+                                   <h1>Topic</h1>
+                               </a>
+                               <div class="clearfix"></div>
+                               <a target="_top" href="#" class="btn">Sub-Title here</a>
+                           </div>Box 1
+               
+                           <div class="box1">Box
+                               <a target="_top" href="#" class="box">
+                                   <div class="pink-image"></div>
+                                   <h1>Topic</h1>
+                               </a>
+                               <div class="clearfix"></div>
+                               <a target="_top" href="#" class="btn">Sub-Title here</a>
+                           </div>Box 1
+               
+               
+                           <div class="box1">Box
+                               <a target="_top" href="#" class="box">
+                                   <div class="purple-image"></div>
+                                   <h1>Topic</h1>
+                               </a>
+                               <div class="clearfix"></div>
+                               <a target="_top" href="#" class="btn">Sub-Title here</a>
+                           </div>Box 1
+               
+               
+                           <div class="box1">Box
+                               <a target="_top" href="#" class="box">
+                                   <div class="seagreen-image"></div>
+                                   <h1>Topic</h1>
+                               </a>
+                               <div class="clearfix"></div>
+                               <a target="_top" href="#" class="btn">Sub-Title here</a>
+                           </div>Box 1
+               
+                           <div class="box1">Box
+                               <a target="_top" href="#" class="box">
+                                   <div class="darkblue-image"></div>
+                                   <h1>Topic</h1>
+                               </a>
+                               <div class="clearfix"></div>
+                               <a target="_top" href="#" class="btn">Sub-Title here</a>
+                           </div>Box 1
+               
+                           <div class="box1">Box
+                               <a target="_top" href="#" class="box">
+                                   <div class="yellow-image"></div>
+                                   <h1>Topic</h1>
+                               </a>
+                               <div class="clearfix"></div>
+                               <a target="_top" href="#" class="btn">Sub-Title here</a>
+                           </div>Box 1-->
+
+                <!--                <div class="clearfix"></div><br/><br/><br/> 
+                                <table><td><div class="fnt">
+                                    <strong>About Togotutor Community</strong><br/>
+                                    <p><div class="fnt-title-border"></div></p>
+                                    Togotutor is an independent Free online Tutorial and Webmaster Community focused on creating the detailed Technical resource center; targeted at the Technical Architects, Leads, Administrators, Managers, Programmer, Developers and Testers alike. Togotutor serve the Fusion, SOA, Middleware and several other technologies from frontend to backend with management and best practices written by domain experts, articles, tutorials, reviews, announcements, code snippets and open source projects.
+                                </div></td><td><div class="fnt-right">
+                                    <strong>License Terms</strong><br/>
+                                    <p><div class="fnt-title-border"></div></p>
+                                    <img src="images/commons-license.png"/>Togotutor is licensed under a Creative Commons Attribution-ShareAlike 3.0 United States License.For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page. Any of the above conditions can be waived if you get written permission from Togotutor. Nothing in this license impairs or restricts the author's moral rights.
+                                    </div></td>
+                                </table>-->
+
+            </section><!--Right Content-->
+
+            <div class="clearfix"></div>
+        </article><!--Wrapper-->
+
+        <!--Footer-->
+        <footer>
+            <div class="container">
+                <div class="left-footer-style">
+                    <div class="left-foot-logo">
+                        <a href="index.php"><img src="images/footerLogo.png" alt="footerlogo"/></a>
+                    </div>
+                    <div class="center-foot-left-section">
+                        <!-- LEFT FOOTER IMG -->
+                        <a href="index.php"><img src="images/togotutor-rss.png" height="18" width="18" alt="rss"/></a>
+                    </div>
+                    <div class="center-foot-left-section">
+                        <!-- FACEBOOK IMG/LIKES -->
+                        <script>(function(d, s, id) {
+                                var js, fjs = d.getElementsByTagName(s)[0];
+                                if (d.getElementById(id))
+                                    return;
+                                js = d.createElement(s);
+                                js.id = id;
+                                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=302256719820366";
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }(document, 'script', 'facebook-jssdk'));</script>
+                        <div class="fb-like" data-href="http://www.facebook.com/togotutorFanpage" data-send="true" data-width="250" data-show-faces="true" data-font="arial"></div>
+                    </div>
+                    <!-- Google Analytics -->
+                    <script type="text/javascript">
+                        var _gaq = _gaq || [];
+                        _gaq.push(['_setAccount', 'UA-17601380-1']);
+                        _gaq.push(['_trackPageview']);
+                        (function() {
+                            var ga = document.createElement('script');
+                            ga.type = 'text/javascript';
+                            ga.async = true;
+                            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(ga, s);
+                        })();
+                    </script>
+                    <!-- Google Analytics -->
+                    <div class="right-foot-links">
+                        <a href="http://www.togotutor.com/forums/forum.php" style="text-decoration: none;color: #555555;" target="_blank" rel="dofollow">FORUM</a>  |  <a href="about/contact.php" style="text-decoration: none;color: #555555;" target="_blank">CONTACT US</a> | <a href="about/privacy.php" style="text-decoration: none;color: #555555;" target="_blank">PRIVACY</a> | <a href="about/advertise.php" style="text-decoration: none;color: #555555;" target="_blank">ADVERTISE</a>
+                    </div>
+                </div>
+                <div class="copyright">
+                    <p>
+                        &copy; 2014 Togotutor.com. Licenced under a Creative Commons Attribution-ShareAlike 3.0 Unported License
+                        All trademarks and registered trademarks appearing on Togotutor are the property of their respective owners.
+                        Togotutor is not connected to Oracle Corporation and is not sponsored by Oracle Corporation.
+                    </p>
+                </div>
+            </div>
+        </footer>
+        <!--Footer-->
+    </body>
+</html>
+
