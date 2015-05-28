@@ -14,6 +14,8 @@ Copying, renaming, moving, deleting files
 
 Functions, taking in args, @_, $_[]
 
+When in function, put args into array or clean method
+
 Hashes and arrays
 
 concept of using any delimiters
