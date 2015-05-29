@@ -1,5 +1,6 @@
 
 use File::Copy; 
+use File::Basename;
 use LWP::Simple;
 
 
@@ -13,6 +14,42 @@ if (-d $File) { }	#if its a Directory
 # mkdir $reportdiryear or die print l DateTimeString().": ERROR: Can't create dir ".$reportdiryear."\n";
 # unlink $so or die print l DateTimeString().": ERROR: Couldn't delete spool file\n";
 
+# --------------------- if 	foreach---------------------
+@lines=<F>;
+$#lines gives size
+
+
+foreach $file (@files) { }
+
+
+# --------------------- Working with strings 	---------------------
+@fname=split(/^a/, $file);
+
+
+# --------------------- Arrays 	---------------------
+@data = ("John Paul", "Lisa", "Kumar");
+
+push(@data,"apple");
+
+
+# --------------------- Functions 	---------------------
+
+sub f1()
+{
+	$_[0] is the first arg
+}
+
+
+
+
+# --------------------- Regex 	---------------------
+for($count=0;$count<$#lines;$count++)
+{
+	if($lines[$count]=~/values/i)
+	{
+		last;
+	}
+}
 
 
 # --------------------- s/pattern/replace with/g  Search and replace 	---------------------
@@ -32,7 +69,22 @@ if (-d $File) { }	#if its a Directory
 # $data=<I>; Puts into string
 # close(I);
 
+#Get everything in directory
+#@files=<*>; foreach $file (@files)
 
+
+
+sub OpenWebPage
+{
+$FileName="webpage.txt";
+$website_content = get("http://www.togotutor.com/index.php"); 
+
+open(i,">$FileName"); 
+
+print i $website_content; 
+
+close(i);
+}
 
 sub DateTimeString()
 {
